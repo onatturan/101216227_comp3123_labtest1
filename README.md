@@ -24,3 +24,13 @@ node callbacks.js
 node add.js
 node remove.js
 
+Instructions
+Node.js must be installed to run this project.
+You can run the solutions for each question by executing the commands mentioned above in the terminal.
+
+Documentation Resources
+JavaScript ES6 Documentation: MDN JavaScript Docs
+Node.js Documentation: Node.js Docs
+
+GitHub Repository
+https://github.com/onatturan/101216227_comp3123_labtest1
